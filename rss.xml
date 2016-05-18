@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[PORTOPHO]]></title>
+        <description><![CDATA[PORTOPHO]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 18 May 2016 19:22:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Projections in the Forest]]></title>
+            <description><![CDATA[<article><h1>Projections in the Forest</h1><p>Behind the scenes: http://vimeo.com/3hund/behindthescenes The projection mapping "bioluminescent forest" is made by artists Friedrich van Schoor and Tarek Mawad. The artists spent six weeks in the forest fascinated by the silence and natural occurrences in nature, especially the phenomenon "bioluminescence".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b83965374a2c848c4c534c3cde750be2d2a50c9.jpg"></article>]]></description>
+            <link>https://vimeo.com/115082758</link>
+            <guid isPermaLink="false">04e7837a-02a4-4ca4-a1e9-3b27122872e5</guid>
+            <pubDate>Wed, 18 May 2016 19:22:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
